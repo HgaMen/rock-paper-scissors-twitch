@@ -7,8 +7,10 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "eslint": "^8.22.0",
     "eslint-plugin-vue": "^9.3.0",
+    "js-confetti": "^0.10.2",
     "vue": "^3.2.37"
   },
   "devDependencies": {
